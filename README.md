@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Pipeline-orange.svg)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-ml-101.streamlit.app/)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 An end-to-end, leak-free machine learning classification pipeline and interactive Streamlit web dashboard designed to identify students at risk of academic failure (`G3 < 10`) immediately following Period 1 internal examinations (`G1`), providing institutions with a 2-to-3-month window for proactive academic intervention.[cite: 1]
